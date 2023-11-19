@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(235, 245, 250); text-align: center;
+  background-color: rgb(235, 245, 250); text-align: center; margin-left: 30px; margin-right: 30px;
 }
 h1 { color: rgb(127, 128, 131); font-family: 'Helvetica Neue', sans-serif; font-size: 85px; font-weight: bold; letter-spacing: 10px; line-height: 5px; text-align: center; }
 h2 { color:rgb(0, 159, 195); font-family: 'Open Sans', sans-serif; font-size: 35px; font-weight: 600; line-height: 35px; margin: 0 0 60px; text-align: center; }
